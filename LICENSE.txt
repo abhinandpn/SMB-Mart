@@ -1,0 +1,21 @@
+SMB GROCERIES
+================================
+
+Personal Information:
+---------------------
+Full Name: [______________]
+Email: [______________]
+Phone Number: [______________]
+
+Message:
+--------
+[Textarea for message]
+
+Checkbox:
+--------
+[ ] I agree to the terms and conditions.
+
+Submit Button
+-------------
+[Submit]
+
